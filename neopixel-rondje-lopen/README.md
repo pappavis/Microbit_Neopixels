@@ -19,4 +19,4 @@ Adafruit Neopixel ring:<br/>
 <br/>
 <img src="https://github.com/pappavis/Microbit_Neopixels/blob/master/neopixel-rondje-lopen/neopixel-rondje-lopen_plaatje1.jpg?raw=true" alt="neopixel programma">
 <br/>
-Neopixels van <a="https://goo.gl/9rKBbr">AliExpress</a> kopen.<br/>
+Neopixels van <a href="https://goo.gl/9rKBbr" target="_blank">AliExpress</a> kopen.<br/>
